@@ -25,6 +25,14 @@ Proceed to check (Y/N): Y
 
 Now, Termianl will display the text file content and type of venba (Ex: Nerisai Venba).
 
-Incase of error, Will indicate  
+Incase of error, it will indicate  
 
-**ERROR: LINE 1 WORD 3 not following asai rule**
+Example 1: **ERROR: LINE 1 WORD 3 not following venba asai rule**  - **ASAI_ERROR**
+
+Example 2: **ERROR: LINE 1 WORD 2 not following venba thalai rule** - **THALAI_ERROR**  
+
+Example 3: **ERROR: Venba should have minimum 2 and maximum 12 lines** - **LINE_ERROR**  
+
+Example 4: **ERROR: LINE 4 should have 3 words** - **WORD_ERROR**  
+
+Example 5: **ERROR: LINE 1 should have 4 words** - **WORD_ERROR**
