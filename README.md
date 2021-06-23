@@ -4,6 +4,9 @@ Venba is a type or form of the classical tamil poetry. Venba grammer rules and r
 
 Venba rules have been proved to form CFG (Context free Grammer) 
 
+## Prerequisites  
+  python should be installed in the system  
+  
 ##### This venba project will helps to find out the error in the literature poem.
 
 **STEP 1:** Type the cheyyul(poem) in the text file and save it.  
