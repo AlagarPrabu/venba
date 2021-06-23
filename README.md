@@ -17,10 +17,8 @@ python main.py
 
 **STEP 5:** Type **Y** to proceed.  
 
-```python
 Proceed to check (Y/N): Y
 
-```
 **Result**
 
 Now, Termianl will display the text file content and type of venba (Ex: Nerisai Venba).
