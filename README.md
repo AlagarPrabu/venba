@@ -1,6 +1,8 @@
 # வெண்பா || Venba
 
-Venba is a part of yaappilakkanam, which created the rule for the tamil literature. Aasiriyappa, Kalippa, Vanjippa also part of the yappilakknam.  
+Venba is a type or form of the classical tamil poetry. Venba grammer rules and regulations are very structural than the other form of tamil poetry types like "AASIRIYAPPA", "VANJIPPA", "KALIPPA".
+
+Venba rules have been proved to form CFG (Context free Grammer) 
 
 ##### This venba project will helps to find out the error in the literature poem.
 
