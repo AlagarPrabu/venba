@@ -7,20 +7,23 @@ Venba rules have been proved to form CFG (Context free Grammer)
 ## Prerequisites  
   python should be installed in the system  
   
-##### This venba project will helps to find out the error in the literature poem.
+## Usage
+**STEP 1:** Download the source file and extract.  
 
-**STEP 1:** Type the cheyyul(poem) in the text file and save it.  
+**STEP 2:** Change the path to src directory.
 
-**STEP 2:** Open the terminal in the project directory.
+**STEP 3:** Type the cheyyul(poem) in the text file and save it.  
 
-**STEP 3:** Type below syntax in the terminal.  
+**STEP 4:** Open the terminal in the project directory.
+
+**STEP 5:** Type below syntax in the terminal.  
 
 ```python
 python main.py
 ```
-**STEP 4:** Now type the text file path. (Ex: /home/root/Desktop/test.py)  
+**STEP 6:** Now type the text file path. (Ex: /home/root/Desktop/test.py)  
 
-**STEP 5:** Type **Y** to proceed.  
+**STEP 7:** Type **Y** to proceed.  
 
 Proceed to check (Y/N): Y
 
